@@ -79,6 +79,9 @@
 
 #### Результат:
 
+![img](img/screenshot_2_zadanie2.png)
+![img](img/screenshot_3_zadanie3.png)
+
 ---
 
 ### Задание 4
