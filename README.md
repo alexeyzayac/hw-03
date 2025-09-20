@@ -79,8 +79,8 @@
 
 #### Результат:
 
-![img](img/zadanie2-3_1.png)
-![img](img/zadanie2-3_2.png)
+![img](img/zadanie2-3.1.png)
+![img](img/zadanie2-3.2.png)
 
 ---
 
