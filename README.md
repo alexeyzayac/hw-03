@@ -39,7 +39,7 @@
 
 #### Результат:
 
-![img](img/screenshot_1.png)
+![img](img/screenshot_1_zadanie1.png)
 
 ---
 
