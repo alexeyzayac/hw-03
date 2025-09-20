@@ -39,7 +39,7 @@
 
 #### Результат:
 
-![img](img/screenshot_1_zadanie1.png)
+![img](img/screenshot_01.png)
 
 ---
 
@@ -79,8 +79,8 @@
 
 #### Результат:
 
-![img](img/screenshot_2_zadanie2.png)
-![img](img/screenshot_3_zadanie3.png)
+![img](img/screenshot_02.png)
+![img](img/screenshot_03.png)
 
 ---
 
